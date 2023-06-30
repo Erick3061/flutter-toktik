@@ -44,4 +44,5 @@ app.*.map.json
 /android/app/release
 
 #assets
-/assets/videos/*
+# No subiré los videos
+assets/videos/*.mp4
